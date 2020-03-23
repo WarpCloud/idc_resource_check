@@ -1,0 +1,2 @@
+# idc_resource_check
+idc_resource_check
